@@ -1,0 +1,28 @@
+{
+    "paths": {
+        "smiles_file": "data/smiles.txt",
+        "data_path": "data/ligand_data.csv",
+        "new_data_path": null,
+        "train_path": "data/train.csv",
+        "test_path": "data/test.csv",
+        "model_path": "checkpoints/round2.pt",
+        "results_path": "results/round2_test.csv",
+        "analysis_output": "results/round2_analysis.txt",
+        "plot_data_path": "data/train.csv",
+        "plot_path": "results/round2/plot.png"
+    },
+    "model": {
+        "fingerprint_nBits": 2048,
+        "training_iterations": 100,
+        "num_clusters": 17
+    },
+    "data_processing": {
+        "test_size": 0.2,
+        "seed": 42,
+        "target_columns": ["absorbance"] #, "wavelength"
+    },
+    "gp_params": {
+        "noise_type": "fixed",
+        "fixed_noise_value": 0.05
+    }
+}
