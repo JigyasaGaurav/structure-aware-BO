@@ -9,10 +9,10 @@ H: O=C(O)c1cc(C(=O)O)c(O)cc1O
 I: CC(C)(C)c1cc(C(=O)O)cc(C(=O)O)c1
 J: O=C(O)c1cc(CBr)cc(C(=O)O)c1
 K: CC(C)(C)C(=O)Nc1cc(C(=O)O)cc(C(=O)O)c1
-L: O=C(O)c2cc(C(=O)O)cc(c1ccccc1)c2
-M: O=C(O)c3cc(C(=O)O)cc(N(c1ccccc1)c2ccccc2)c3
+L: O=C(O)c2cc(OCc1ccccc1)cc(C(=O)O)c2
+M: O=C(O)c3cc(NC(=O)C(c1ccccc1)c2ccccc2)cc(C(=O)O)c3
 N: O=C(O)c2cc(Oc1ccccc1)cc(C(=O)O)c2
-O: CCOc1cc(C(=O)O)cc(C(=O)O)c1
-P: CCCCCOc1cc(C(=O)O)cc(C(=O)O)c1
+O: CCCCOc1cc(C(=O)O)cc(C(=O)O)c1
+P: CCCCCCCCCCCCOc1cc(C(=O)O)cc(C(=O)O)c1
 Q: O=C(O)c2cc(OCc1ccncc1)cc(C(=O)O)c2
 Z: C
