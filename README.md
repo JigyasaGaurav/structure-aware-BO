@@ -1,6 +1,5 @@
 # Structure-aware Bayesian Optimization
 
-![Overview of the Structure-aware Bayesian Optimization Framework](main_fig.png)
 ## Project Description
 
 This repository implements a **structure-aware Bayesian Optimization (BO)** framework designed to accelerate the discovery of porous molecular materials, specifically porous coordination cages. Designing these materials involves navigating a vast compositional space of organic ligands and mixing ratios, where physical evaluation is resource-intensive. This accompanies our paper "Bayesian Optimization Guided Lab-in-the-loop Design of Porous Molecular Materials".
